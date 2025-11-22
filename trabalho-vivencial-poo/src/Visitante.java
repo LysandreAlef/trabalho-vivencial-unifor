@@ -1,6 +1,7 @@
-public class Visitante  extends Pessoa {
+// Bruna Scarlet
 
-    public Visitante(String cpf, String nome, int idade) {
-        super(cpf, nome, idade);
+public class Visitante extends Pessoa {
+    public Visitante(String nome) {
+        super(nome); // Chama o constructor da classe Pessoa
     }
 }

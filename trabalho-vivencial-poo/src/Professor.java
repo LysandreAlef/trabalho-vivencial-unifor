@@ -1,12 +1,5 @@
-public class Professor  extends Pessoa {
-    private String centro;
+// Bruna Scarlet
 
-    public Professor(String cpf, String nome, int idade) {
-        super(cpf, nome, idade);
-        this.centro = centro;
-    }
+public class Professor extends Pessoa {
+    private String especialidade;
 
-    public void darAula() {
-
-    }
-}
