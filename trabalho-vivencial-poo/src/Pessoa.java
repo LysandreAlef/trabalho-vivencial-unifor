@@ -1,5 +1,3 @@
-// Lysandre Alef
-
 public abstract class Pessoa {
     private String cpf;
     private String nome;
